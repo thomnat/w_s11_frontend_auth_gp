@@ -18,7 +18,7 @@ export default function AuthForm() {
     <div className="container">
       <div aria-live="polite"></div>
       <div aria-live="assertive" style={{ color: 'red' }}></div>
-      <h3>Login</h3>
+      <h3>Login Form</h3>
       <form onSubmit={handleSubmit}>
         <div>
           <label htmlFor="username">Username:</label>

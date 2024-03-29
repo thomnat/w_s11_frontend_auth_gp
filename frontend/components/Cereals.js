@@ -9,7 +9,7 @@ export default function Cereals() {
 
   return (
     <div className="container">
-      <h3>StarsList <button onClick={logout}>Logout</button></h3>
+      <h3>Cereals List <button onClick={logout}>Logout</button></h3>
       {cereals.length > 0 ? (
         <div>
           {cereals.map((cereal) => (
