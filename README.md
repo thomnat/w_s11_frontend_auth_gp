@@ -19,3 +19,5 @@
 
 1. username "tom", password "mypassword"
 2. username "liz", password "12341234"
+
+token: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJ0b20iLCJyb2xlIjoic3R1ZGVudCIsImlhdCI6MTcxNDQyNzAzMCwiZXhwIjoxNzE0NDMwNjMwfQ.JbKUsjjdRlxR5Ke2iKL3IFEHKgBoTH9rTdTXS4d3qG4"
